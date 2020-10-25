@@ -1,0 +1,5 @@
+Loader/.idea/
+Loader/__pycache__/
+Loader/venv/
+Loader/.env
+Loader/stocks.csv
